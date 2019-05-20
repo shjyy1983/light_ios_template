@@ -1,0 +1,16 @@
+{
+  "project":"O32Comm",
+  "version":"1.0.0",
+  "desc":"O32 通用版本",
+  "type":"vue",
+  "link_id":"",
+  "plugins":[],
+  "env":{
+    "default":{
+      "log_level":"debug"
+    },
+    "product":{
+      "log_level":"error"
+    }
+  }
+}

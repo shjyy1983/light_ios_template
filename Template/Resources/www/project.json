@@ -1,0 +1,17 @@
+{
+  "project":"ZGJApp",
+  "version":"1.0.0",
+  "desc":"资管荚JSN",
+  "type":"vue",
+  "plugins":["native", "jsnative"],
+  "link_id":"1883",
+
+  "env":{
+    "default":{
+      "log_level":"debug"
+    },
+    "product":{
+      "log_level":"error"
+    }
+  }
+}

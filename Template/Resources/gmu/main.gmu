@@ -1,0 +1,25 @@
+
+{
+    "config":{
+    },
+    "menus":[
+        {
+            "title":"首页",
+            "action":"gmu://jsnative#home"
+        }
+    ],
+    "navigationbar":{
+        "immersiveMode":false
+    },
+    "style":{
+        "navigationbar":{
+            "backgroundColor":"#247adc",
+            "titleColor":"#ffffff",
+            "buttonColor":"#ffffff",
+            "useDarkStatusBarStyle":true
+        },
+        "menu":{
+        }
+    }
+}
+

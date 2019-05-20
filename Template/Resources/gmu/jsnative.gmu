@@ -1,0 +1,26 @@
+
+{
+    "pages":[
+        {
+            "pageid":"home",
+            "inputParams":{
+                "startPage":"app.native.js#/home/index"
+            },
+            "navigationbar":{
+                "show":false,
+                "immersiveMode":true,
+                "statusBarOnly":false
+            }
+        }
+    ],
+    "navigationbar":{
+        "show":false,
+        "statusBarOnly":false
+    },
+    "style":{
+    },
+    "inputParams":{
+        "statusBarStyle":"black"
+    }
+}
+

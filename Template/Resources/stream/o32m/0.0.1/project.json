@@ -1,0 +1,34 @@
+{
+    "project": "jxrs2.0",
+    "version": "0.0.1",
+    "desc": "移动审批建信人寿项目2.0版本",
+    "type": "vue",
+    "link_id": "8112734868606429",
+
+    "env": {
+        "local": {
+            "note": "本地环境",
+            "scope": "O32",
+            "server": "http://localhost:8080"
+        },
+        "dev": {
+            "note": "开发环境",
+            "scope": "O32",
+            "server": "http://192.168.39.79:8080"
+        },
+        "dev2": {
+            "note": "开发环境",
+            "scope": "O32",
+            "server": "http://192.168.39.146:20004"
+        },
+        "test": {
+            "note": "测试环境",
+            "scope": "O32",
+            "server": "http://10.20.36.91:8080"
+        },
+        "unknown": {
+            "note": "API服务不明确",
+            "scope": "O32"
+        }
+    }
+}

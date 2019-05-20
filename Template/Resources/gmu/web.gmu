@@ -1,0 +1,20 @@
+
+{
+    "config":{
+        "injectHybridJs":true,
+        "enablePulldownRefresh":false,
+        "disableBounces":true
+    },
+    "pages":[
+    ],
+    "navigationbar":{
+        "show":false,
+        "statusBarOnly":false
+    },
+    "style":{
+    },
+    "inputParams":{
+        "statusBarStyle":"black"
+    }
+}
+

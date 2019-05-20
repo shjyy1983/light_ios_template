@@ -1,0 +1,23 @@
+参考例子
+https://git01.hundsun.com/light/light-demo-os/tree/master/lightSdkDemo
+jsnative-app
+
+API
+https://document.lightyy.com/light_ui_ref/content/JSNative-references/module/modal.html
+
+样式
+https://document.lightyy.com/app_dev_jsn/content/JSNative-references/common-style.html
+
+
+
+
+
+
+token 59358275000000 O32
+mode 1 O32
+auth 1,2,3,4 O32
+server http://10.20.36.91:8080 O32
+
+
+
+需改 link_id
